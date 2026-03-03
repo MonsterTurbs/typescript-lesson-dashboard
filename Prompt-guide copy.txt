@@ -1,0 +1,7 @@
+Section: Section 5: Next-generation JavaScript & TypeScript
+Topic: 59. 
+Transcript: 
+
+Notes: Tagalog, gawing masaya, enjoyable, exciting at interactive ang lesson plan, gumamit ng mga emoticons at gawing masaya, enjoyable, exciting at interactive ang pagtuturo
+if possible mag add ka rin ng code snippets then if ever i explain din na mauunawaan ng hindi developer ang nasa code snippets
+Gawing consistent ang design katulad sa mga naunang files.
